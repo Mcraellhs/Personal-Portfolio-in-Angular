@@ -1,0 +1,29 @@
+.heading-meta{
+    margin-bottom: 15px;
+    margin-top: -10px;
+    display: block;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #999999;
+    letter-spacing: 5px;
+}
+
+.skillclass{
+    margin-top: 100px;
+   min-height: 800px;
+   background-color: #fff9c4;
+   padding: 15px;
+}
+.progress{
+    margin-bottom: 30px;
+    line-height: 50px;
+    overflow: hidden;
+   
+}
+
+li{
+    float: left;
+    clear: both;
+    
+    padding-top: 10px;
+}

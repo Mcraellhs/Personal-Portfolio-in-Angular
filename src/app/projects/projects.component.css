@@ -1,0 +1,22 @@
+.heading-meta{
+    margin-bottom: 15px;
+    margin-top: -10px;
+    display: block;
+    font-size: 10px;
+    text-transform: uppercase;
+    color: #999999;
+    letter-spacing: 5px;
+}
+
+img{
+    width: 100%;
+   
+}
+.btn{
+float: left;
+}
+
+.projectsclass{
+    background-color: #fff9c4;
+    padding: 5px;
+}

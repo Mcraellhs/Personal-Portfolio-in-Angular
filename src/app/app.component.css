@@ -1,0 +1,16 @@
+.appmainside{
+    background-color: #bdc3c7;
+    
+}
+
+@media (max-width:1200px){
+
+    .side{
+        display: none;
+    }
+
+    .appmainside{
+        width: 100%;
+    }
+
+}
