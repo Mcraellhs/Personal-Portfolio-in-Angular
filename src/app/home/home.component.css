@@ -31,3 +31,13 @@
     height: 500px;
     padding-top: 1px;
 }
+
+.logo{
+    height: 50px;
+}
+
+.logo:hover{
+
+    height: 70px;
+    
+}
